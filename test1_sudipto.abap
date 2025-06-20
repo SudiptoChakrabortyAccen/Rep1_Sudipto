@@ -1,4 +1,7 @@
 write "Hello World".
-if su-subrc is initial.
+if sy-subrc is initial.
 
+else.
 endif.
+
+*END of Prog*
